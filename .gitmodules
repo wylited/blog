@@ -1,0 +1,3 @@
+[submodule "themes/ayu-stack"]
+	path = themes/ayu-stack
+	url = https://github.com/wylited/ayu-stack/

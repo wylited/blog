@@ -1,0 +1,6 @@
+baseURL = 'http://blog.wyli.live/'
+languageCode = 'en-us'
+title = "wyli's blog"
+paginate = 5
+theme = 'ayu-stack'
+
