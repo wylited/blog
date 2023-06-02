@@ -25,7 +25,7 @@
       '(("posts"
          :base-directory "posts/"
          :base-extension "org"
-         :publishing-directory "public/"
+         :publishing-directory "pages/"
          :recursive t
          :publishing-function org-html-publish-to-html
          :html-head "<style> *[class], *[id] { class: ''; id: ''; }</style>"

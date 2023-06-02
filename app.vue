@@ -1,5 +1,7 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <Hero :items="['home', 'blog']">
+      <NuxtPage />
+    </Hero>
   </div>
 </template>

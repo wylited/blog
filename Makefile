@@ -11,7 +11,7 @@ all: publish
 publish: publish.el
 	@echo "Publishing... with current Emacs configurations."
 	emacs --batch --load publish.el --funcall org-publish-all
-	@cp -r posts/ltximg/ public/
+	@cp -r posts/ltximg/ pages/
 
 publish_no_init: publish.el
 	@echo "Publishing... with --no-init."
@@ -20,7 +20,7 @@ publish_no_init: publish.el
 clean:
 	@echo "Cleaning up.."
 	@rm -rvf *.elc
-	@rm -rvf public
+	@rm -rvf pages
 	@rm -rvf ~/.org-timestamps/*
 
 # end
