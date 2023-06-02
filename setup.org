@@ -1,0 +1,3 @@
+#+author: wyli
+#+email: wylited@gmail.com
+#+OPTIONS: toc:nil html-postamble:nil html-preamble:nil html-style:nil tex:dvisvgm

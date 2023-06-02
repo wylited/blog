@@ -1,0 +1,22 @@
+#+title: Test
+#+date: <2023-06-02 Fri>
+#+setupfile: ../setup.org
+
+* Test
+hey there
+lorem ipsume is random text for filler *right*?
+
+wow thats cool
+- list 1
+- list two
+  - sub list?
+  - nah
+- list 3
+
+$$y = mx + c$$
+
+$y - y_1 = m(x-x_1)$
+
+$y = sin(x)$
+
+thats some insane latex. but it thinks its unmodified
