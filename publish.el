@@ -30,10 +30,10 @@
          :publishing-function org-html-publish-to-html
          :html-head "<style> *[class], *[id] { class: ''; id: ''; }</style>"
          :body-only t
-         :html-container "template"
+         :html-container template
          :html-extension "vue"
          :section-numbers nil
-         :auto-sitemap nil
+         :auto-sitemap nil)
         ("all" :components ("posts"))))
 
 (provide 'publish)

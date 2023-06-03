@@ -1,9 +1,9 @@
 <template>
   <Hero :values="[
-    { name: 'home', link: 'https://web.wyli.tech' },
-    { name: 'blog', link: 'https://blog.wyli.tech' },
-    { name: '2023', link: 'https://blog.wyli.tech/2023' }
-  ]">
+        { name: 'home', link: 'https://web.wyli.tech' },
+        { name: 'blog', link: '/' },
+        { name: '2023', link: '/2023' }
+    ]">
     <h1 class="text-3xl text-primary py-6 underline">2023</h1>
     <ul class="py-5">
       <li>
