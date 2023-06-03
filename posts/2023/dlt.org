@@ -2,10 +2,10 @@
 #+date: <2023-06-02 Fri>
 #+setupfile: ../../setup.org
 
-* dlt - delta
+* dlt -> delta
 
-why *delta* for the 2023 icon?
+why choose *delta* for the 2023 icon?
 
 The fourth greek letter delta, used all over the place as a symbol, is majorly used to symbolize change.
 
-The year of 2023, I believe has brought (or will bring) the most change for me. You could include 2022, but its no longer 2022 so I might as well just start a new.
+The year of 2023, I believe has brought (or will bring) the most change for me. I would include 2022, but its no longer 2022, so I might as well just start anew.

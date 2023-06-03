@@ -32,7 +32,8 @@
          :body-only t
          :html-container "template"
          :html-extension "vue"
-         :auto-sitemap f)
+         :section-numbers nil
+         :auto-sitemap nil
         ("all" :components ("posts"))))
 
 (provide 'publish)

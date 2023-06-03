@@ -52,3 +52,7 @@ h2 {
   font-size: 28px;
   font-weight: 550;
 }
+
+.hero-content {
+  max-width: 50%;
+}

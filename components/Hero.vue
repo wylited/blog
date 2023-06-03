@@ -1,8 +1,11 @@
 <script>
 export default {
-    props: {
-        items: Array[String]
+  props: {
+    values: {
+      type: Array,
+      required: true
     }
+  }
 }
 </script>
 
@@ -11,13 +14,13 @@ export default {
         <div class="hero-content text-center flex-col min-w-[50%]">
             <div class="text-sm breadcrumbs">
                 <ul>
-                    <li v-for="item in items">
-                        <p href="#" class="text-info">{{ item }}</p>
+                    <li v-for="value in values" :key="value.link">
+                        <NuxtLink :to="value.link" class="text-info">{{ value.name }}</NuxtLink>
                     </li>
                 </ul>
             </div>
 
-            <div class="mr-a ml-a border-y-2 min-w-[50%] border-neutral">
+            <div class="mr-a ml-a border-y-2 min-w-[50%] border-neutral py-6">
                 <slot />
             </div>
         </div>

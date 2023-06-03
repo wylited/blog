@@ -1,4 +1,0 @@
-#+TITLE: Sitemap for project posts
-
-- 2023
-  - [[file:2023/dlt.org][dlt]]
