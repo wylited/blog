@@ -1,0 +1,9 @@
+#+title:
+#+date:
+#+setupfile: ../../setup.org
+
+#+HTML: <template>
+#+HTML: <Blog>
+
+#+HTML: </Blog>
+#+HTML: </template>
