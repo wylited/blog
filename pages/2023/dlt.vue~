@@ -1,3 +1,4 @@
+<template>
 <Blog>
 
 <p>
@@ -13,3 +14,4 @@ The year of 2023, I believe has brought (or will bring) the most change for me. 
 </p>
 
 </Blog>
+</template>

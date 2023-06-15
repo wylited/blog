@@ -2,6 +2,10 @@
 <Blog>
 
 <p>
+dlt -&gt; delta
+</p>
+
+<p>
 why choose <b>delta</b> for the 2023 icon?
 </p>
 
