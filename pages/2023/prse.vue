@@ -53,7 +53,7 @@ you give the safe to someone else, and they run away with it
 </p>
 
 <p>
-you lock the safe, within several other safes, and throw away all the keys
+you lock the safe, within another safe, within another safe, and antoher safe, and throw away all the keys
 </p>
 
 <p>
@@ -139,7 +139,7 @@ a deal made with her irrationally driven self.
 </p>
 
 <p>
-for someone who thinks and breathes in logic,
+for someone who eats and breathes in logic,
 </p>
 
 <p>
