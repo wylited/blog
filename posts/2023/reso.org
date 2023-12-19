@@ -1,0 +1,13 @@
+#+title: Resolutions
+#+date: 19-12-2023 Tuesday
+#+setupfile: ../../setup.org
+
+#+HTML: <template>
+#+HTML: <Blog>
+
+reso -> Resolutions
+
+or maybe new years resolutions
+
+#+HTML: </Blog>
+#+HTML: </template>

@@ -9,8 +9,38 @@ prse -&gt; prose
 a collection of short stuff I wrote, not long enough to be anything of substance or value.
 </p>
 
+<hr />
 
+<p>
+I dont like this one but.
+im just a shoulder to you?
+no.
+a shoulder to cry on,
+go on, lean on me.
+learn to
+love to live as a glorified wall
+make sure to gain some fat,
+so its nice to sleep on as well.
+but i cannot complain, if i request it.
+just let me be more,
+maybe a human a whole.
+</p>
 
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2023-12-11 Mon&gt;</span></span>
+</p>
+
+<hr />
+
+<p>
+And hey,
+if your sun shines,
+so will mine.
+</p>
+
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2023-12-16 Sat&gt;</span></span>
+</p>
 
 <hr />
 
