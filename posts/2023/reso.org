@@ -7,7 +7,13 @@
 
 reso -> Resolutions
 
-or maybe new years resolutions
+or maybe new years resolutions.
+
+So, I did write resolutions last year, I can read it write now.
+
+its really not that accurate though. I did manage to do some of the stuff, but I think the real issue was in the resolutions.
+
+
 
 #+HTML: </Blog>
 #+HTML: </template>

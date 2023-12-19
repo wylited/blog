@@ -13,18 +13,52 @@ a collection of short stuff I wrote, not long enough to be anything of substance
 
 <p>
 I dont like this one but.
+</p>
+
+<p>
 im just a shoulder to you?
+</p>
+
+<p>
 no.
+</p>
+
+<p>
 a shoulder to cry on,
+</p>
+
+<p>
 go on, lean on me.
+</p>
+
+<p>
 learn to
+</p>
+
+<p>
 love to live as a glorified wall
+</p>
+
+<p>
 make sure to gain some fat,
+</p>
+
+<p>
 so its nice to sleep on as well.
+</p>
+
+<p>
 but i cannot complain, if i request it.
+</p>
+
+<p>
 just let me be more,
+</p>
+
+<p>
 maybe a human a whole.
 </p>
+
 
 <p>
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2023-12-11 Mon&gt;</span></span>
@@ -34,7 +68,13 @@ maybe a human a whole.
 
 <p>
 And hey,
+</p>
+
+<p>
 if your sun shines,
+</p>
+
+<p>
 so will mine.
 </p>
 
