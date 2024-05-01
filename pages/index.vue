@@ -12,11 +12,10 @@
                     <div class="text-warning">2023</div>
                 </td>
                 <td class="text-center">
-                    <a class="text-6xl text-accent" href="https://blog.wyli.tech/2023">φ</a>
+                    <NuxtLink class="text-6xl text-accent" to="2024">φ</NuxtLink>
                     <div class="text-accent">2024</div>
                 </td>
             </tr>
         </table>
     </Hero>
 </template>
-  

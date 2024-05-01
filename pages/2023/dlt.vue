@@ -1,5 +1,5 @@
 <template>
-<Blog>
+<Blog name="2023">
 
 <p>
 dlt -&gt; delta

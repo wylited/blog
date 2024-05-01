@@ -1,0 +1,29 @@
+<template>
+<Blog name="2024">
+
+<p>
+prod -&gt; productivity
+</p>
+
+<p>
+To those whose wants are ineffaceable.
+</p>
+
+<p>
+I get asked questions about productivity alot, not only by other people, but also by myself. Honestly, I'd say I'm distant from the level of productivity I want to achieve, but lets start off by defining productivity in a few ways.
+</p>
+
+<p>
+Productivity, or even efficiency, can be defined as output over input. How much are you putting in against how much you are getting out.
+</p>
+
+<p>
+So there are two main factors. 1, the amount of hard work you put in. 2, the efficiency with which you work, determining your ratio.
+</p>
+
+<p>
+Why do people strive for productivity though? As economics would suggest, we are creatures of limitless desires. The direction of these desires can vary greatly. Almost every desire or goal you have, requires effort and work to be put into it.
+</p>
+
+</Blog>
+</template>

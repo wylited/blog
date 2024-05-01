@@ -1,5 +1,5 @@
 <template>
-<Blog>
+<Blog name="2023">
 
 <p>
 szns -&gt; seasons
@@ -32,8 +32,7 @@ freeze just like the weather. <br />
 
 <p>
 Another month goes by, <br />
-and surprisingly <br />
-your Merino red sweater <br />
+and your Merino red sweater <br />
 is pulled over my bear chest <br />
 I mark the 3rd <br />
 on the calendar <br />

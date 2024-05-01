@@ -1,5 +1,5 @@
 <template>
-<Blog>
+<Blog name="2023">
 
 <p>
 exms -&gt; exam stress

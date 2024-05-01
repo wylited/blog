@@ -3,7 +3,7 @@
 #+setupfile: ../../setup.org
 
 #+HTML: <template>
-#+HTML: <Blog value="2023">
+#+HTML: <Blog name="2024">
 
 #+HTML: </Blog>
 #+HTML: </template>

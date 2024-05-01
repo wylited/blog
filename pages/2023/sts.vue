@@ -1,5 +1,5 @@
 <template>
-<Blog>
+<Blog value="2023">
 
 <p>
 sts -&gt; stats

@@ -3,7 +3,7 @@
 #+setupfile: ../../setup.org
 
 #+HTML: <template>
-#+HTML: <Blog>
+#+HTML: <Blog name="2023">
 
 reso -> Resolutions
 

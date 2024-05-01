@@ -3,7 +3,7 @@
 #+setupfile: ../../setup.org
 
 #+HTML: <template>
-#+HTML: <Blog>
+#+HTML: <Blog name="2023">
 
 szns -> seasons
 
@@ -25,8 +25,7 @@ run till the thoughts in my head \\
 freeze just like the weather. \\
 
 Another month goes by, \\
-and surprisingly \\
-your Merino red sweater \\
+and your Merino red sweater \\
 is pulled over my bear chest \\
 I mark the 3rd \\
 on the calendar \\

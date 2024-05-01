@@ -1,8 +1,8 @@
 <script>
 export default {
     props: {
-        values: {
-            type: Array,
+        name: {
+            type: String,
             required: true
         }
     }
@@ -21,7 +21,7 @@ export default {
                         <NuxtLink to="/" class="text-info">blog</NuxtLink>
                     </li>
                     <li>
-                        <NuxtLink to="/2023" class="text-info">2023</NuxtLink>
+                        <NuxtLink to="/{{name}}" class="text-info">{{name}}</NuxtLink>
                     </li>
                 </ul>
             </div>
