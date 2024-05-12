@@ -35,5 +35,30 @@ the passing rain, never endless. <br />
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2024-05-01 Wed&gt;</span></span>
 </p>
 
+<hr />
+<p>
+tick tock
+theres little left on the clock
+where will i fight
+when i run out of time
+</p>
+
+<p>
+tick tock
+battering the wall
+till the cathartic release
+of blood dripping off my palms
+</p>
+
+<p>
+allons-y
+to quite far from here
+allons-là
+</p>
+
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2024-05-12 Sun&gt;</span></span>
+</p>
+
 </Blog>
 </template>
