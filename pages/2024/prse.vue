@@ -37,23 +37,23 @@ the passing rain, never endless. <br />
 
 <hr />
 <p>
-tick tock
-theres little left on the clock
-where will i fight
-when i run out of time
+tick tock <br />
+theres little left on the clock <br />
+where will i fight <br />
+when i run out of time <br />
 </p>
 
 <p>
-tick tock
-battering the wall
-till the cathartic release
-of blood dripping off my palms
+tick tock <br />
+battering the wall <br />
+till the cathartic release <br />
+of blood dripping off my palms <br />
 </p>
 
 <p>
-allons-y
-to quite far from here
-allons-là
+allons-y <br />
+to quite far from here <br />
+allons-là <br />
 </p>
 
 <p>
