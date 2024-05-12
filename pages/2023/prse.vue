@@ -10,20 +10,19 @@ a collection of short stuff I wrote, not long enough to be anything of substance
 </p>
 
 <hr />
-
 <p>
-I dont like this one but.  <i>/
-im just a shoulder to you?  /</i>
-no./
-a shoulder to cry on,  <i>/
-go on, lean on me.  /</i>
-learn to  <i>/
-love to live as a glorified wall  /</i>
-make sure to put on some fat,  <i>/
-so its nice to sleep on as well.  /</i>
-but i cannot complain, if i request it.  <i>/
-just let me be more,  /</i>
-maybe a human a whole.  //
+I dont like this one but.  <br />
+im just a shoulder to you?  <br />
+no. <br />
+a shoulder to cry on,  <br />
+go on, lean on me.  <br />
+learn to  <br />
+love to live as a glorified wall  <br />
+make sure to put on some fat,  <br />
+so its nice to sleep on as well.  <br />
+but i cannot complain, if i request it.  <br />
+just let me be more,  <br />
+maybe a human a whole.  <br />
 </p>
 
 <p>
@@ -32,9 +31,9 @@ maybe a human a whole.  //
 
 <hr />
 <p>
-And hey,  <i>/
-if your sun shines,  /</i>
-so will mine.   //
+And hey,  <br />
+if your sun shines,  <br />
+so will mine.   <br />
 </p>
 
 <p>
@@ -44,10 +43,10 @@ so will mine.   //
 <hr />
 
 <p>
-persistent weed, in the crack,   <i>/
-shallow pool, reflecting attacks.   /</i>
-spalling concrete, resilient shelter   <i>/
-but you wont buckle, under the pressure   /</i>
+persistent weed, in the crack,   <br />
+shallow pool, reflecting attacks.   <br />
+spalling concrete, resilient shelter   <br />
+but you wont buckle, under the pressure   <br />
 </p>
 
 <p>
@@ -57,12 +56,12 @@ but you wont buckle, under the pressure   /</i>
 <hr />
 
 <p>
-ways to lose memories:   <i>/
-you forget which key, you use for the safe   /</i>
-you forget the safe number, and you cant test your key with every safe   <i>/
-you give the safe to someone else, and they run away with it   /</i>
-you lock the safe, within another safe, within another safe, and antoher safe, and throw away all the keys   <i>/
-you throw the safe further into the future, for a later you to deal with   /</i>
+ways to lose memories:   <br />
+you forget which key, you use for the safe   <br />
+you forget the safe number, and you cant test your key with every safe   <br />
+you give the safe to someone else, and they run away with it   <br />
+you lock the safe, within another safe, within another safe, and antoher safe, and throw away all the keys   <br />
+you throw the safe further into the future, for a later you to deal with   <br />
 </p>
 
 <p>
@@ -72,19 +71,19 @@ you throw the safe further into the future, for a later you to deal with   /</i>
 
 <hr />
 <p>
-things that remind me of you &amp; the small things you do   //
+things that remind me of you &amp; the small things you do   <br />
 </p>
 
 <p>
-is it   <i>/
-standing in the rain, holding a black umbrella   /</i>
-that's alike to texting you, from the comfort of my bed.   <i>/
-or was it   /</i>
-staring out of the window, into the darkness of the storm.   <i>/
-the soft words you spoke, wrapping my head.   /</i>
-the touch of your cold hands, that you use to write   <i>/
-extravagant fortresses of sweet, sweet rambling.   /</i>
-the touch of cold stone under my neck, the blossom of blood spreading from it.   //
+is it   <br />
+standing in the rain, holding a black umbrella   <br />
+that's alike to texting you, from the comfort of my bed.   <br />
+or was it   <br />
+staring out of the window, into the darkness of the storm.   <br />
+the soft words you spoke, wrapping my head.   <br />
+the touch of your cold hands, that you use to write   <br />
+extravagant fortresses of sweet, sweet rambling.   <br />
+the touch of cold stone under my neck, the blossom of blood spreading from it.   <br />
 </p>
 
 <p>
@@ -94,14 +93,14 @@ the touch of cold stone under my neck, the blossom of blood spreading from it.  
 
 <hr />
 <p>
-you remind me   <i>/
-of a ghost, That i dont get to see.   /</i>
-appearing every todays, whispering in my ear.   <i>/
-she sacrified her face, for not fortune nor fame.   /</i>
-a deal made with someone worse than the devil.   <i>/
-a deal made with her irrationally driven self.   /</i>
-for someone who daily deal is in logic,   <i>/
-I wonder how one could be so stupid.   /</i>
+you remind me   <br />
+of a ghost, That i dont get to see.   <br />
+appearing every todays, whispering in my ear.   <br />
+she sacrified her face, for not fortune nor fame.   <br />
+a deal made with someone worse than the devil.   <br />
+a deal made with her irrationally driven self.   <br />
+for someone who daily deal is in logic,   <br />
+I wonder how one could be so stupid.   <br />
 </p>
 
 <p>
@@ -111,16 +110,16 @@ I wonder how one could be so stupid.   /</i>
 <hr />
 
 <p>
-I dont get to see   <i>/
-pretty clouds often enough   /</i>
-but fortunately   <i>/
-i can see you   /</i>
+I dont get to see   <br />
+pretty clouds often enough   <br />
+but fortunately   <br />
+i can see you   <br />
 </p>
 
 
 <p>
-every day and night   <i>/
-somewhere only we know   /</i>
+every day and night   <br />
+somewhere only we know   <br />
 </p>
 
 <p>
@@ -129,8 +128,8 @@ somewhere only we know   /</i>
 
 <hr />
 <p>
-when you speak of warmth, you make me feel it, but you end up losing it.   <i>/
-so why do I speak of warmth when I'm hot headed?   /</i>
+when you speak of warmth, you make me feel it, but you end up losing it.   <br />
+so why do I speak of warmth when I'm hot headed?   <br />
 </p>
 
 <p>
@@ -139,15 +138,15 @@ so why do I speak of warmth when I'm hot headed?   /</i>
 
 <hr />
 <p>
-I think i need some sedative   <i>/
-falling victim to the scheduled   /</i>
-it all feels too repetitive   <i>/
-"go buy some milk again"   /</i>
-rise before the sun, work my stress away   <i>/
-try to make the most of the next hour   /</i>
-living life on the daytoday   <i>/
-never gonna falter, but let me sway   /</i>
-from side to side   //
+I think i need some sedative   <br />
+falling victim to the scheduled   <br />
+it all feels too repetitive   <br />
+"go buy some milk again"   <br />
+rise before the sun, work my stress away   <br />
+try to make the most of the next hour   <br />
+living life on the daytoday   <br />
+never gonna falter, but let me sway   <br />
+from side to side   <br />
 </p>
 
 <p>
@@ -156,11 +155,11 @@ from side to side   //
 
 <hr />
 <p>
-leave me be   <i>/
-for i am too tired to argue   /</i>
-and if i do argue   <i>/
-you will end up tireder than me   /</i>
-for exhausting is all i can do   //
+leave me be   <br />
+for i am too tired to argue   <br />
+and if i do argue   <br />
+you will end up tireder than me   <br />
+for exhausting is all i can do   <br />
 </p>
 
 <p>
